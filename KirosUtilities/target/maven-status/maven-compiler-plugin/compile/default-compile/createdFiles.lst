@@ -1,0 +1,6 @@
+com\sagmcu\KirosUtilities\Main.class
+com\sagmcu\KirosUtilities\utils\ChatColorTranslator.class
+com\sagmcu\KirosUtilities\utils\TabCompletionFilter$CustomWhitelist.class
+com\sagmcu\KirosUtilities\utils\TabCompletionFilter.class
+com\sagmcu\KirosUtilities\commands\ReloadCommand.class
+com\sagmcu\KirosUtilities\mechanisms\PistonBlocker.class

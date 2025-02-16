@@ -1,0 +1,19 @@
+name: KirosUtilities
+version: 1.1
+main: com.sagmcu.KirosUtilities.Main
+api-version: 1.21
+
+commands:
+  kirosutilities:
+    description: Reloads the plugin configuration
+    usage: /kirosutilities reload
+    permission: kirosutilities.admin
+    permission-message: "You do not have permission to use this command."
+
+permissions:
+  kirosutilities.admin:
+    description: Allows using the reload command.
+    default: op
+  kirosutilities.TabCompletionFilter.exempt:
+    description: Players with this permission are exempt from the TabCompletionFilter
+    default: op
