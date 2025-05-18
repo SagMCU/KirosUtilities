@@ -17,3 +17,6 @@ permissions:
   kirosutilities.TabCompletionFilter.exempt:
     description: Players with this permission are exempt from the TabCompletionFilter
     default: op
+  kirosutilities.joinfullservers: # Added permission
+    description: Allows players to join the server even when it is full
+    default: op
